@@ -91,3 +91,7 @@ psql -U postgres -d salon -f salon.sql
 ```bash
 bash salon.sh
 ````
+
+🎓 Learning Context
+
+This project was completed as part of the freeCodeCamp Relational Database Certification, with additional improvements for portfolio presentation.
